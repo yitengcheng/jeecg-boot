@@ -8,3 +8,21 @@
 
 ## front
 **/*.lock
+ant-design-vue-jeecg/package-lock.json
+jeecg-boot/.project
+jeecg-boot/.settings/org.eclipse.core.resources.prefs
+jeecg-boot/.settings/org.eclipse.m2e.core.prefs
+jeecg-boot/jeecg-boot-base-common/.classpath
+jeecg-boot/jeecg-boot-base-common/.factorypath
+jeecg-boot/jeecg-boot-base-common/.project
+jeecg-boot/jeecg-boot-base-common/.settings/org.eclipse.core.resources.prefs
+jeecg-boot/jeecg-boot-base-common/.settings/org.eclipse.jdt.apt.core.prefs
+jeecg-boot/jeecg-boot-base-common/.settings/org.eclipse.jdt.core.prefs
+jeecg-boot/jeecg-boot-base-common/.settings/org.eclipse.m2e.core.prefs
+jeecg-boot/jeecg-boot-module-system/.classpath
+jeecg-boot/jeecg-boot-module-system/.factorypath
+jeecg-boot/jeecg-boot-module-system/.project
+jeecg-boot/jeecg-boot-module-system/.settings/org.eclipse.core.resources.prefs
+jeecg-boot/jeecg-boot-module-system/.settings/org.eclipse.jdt.apt.core.prefs
+jeecg-boot/jeecg-boot-module-system/.settings/org.eclipse.jdt.core.prefs
+jeecg-boot/jeecg-boot-module-system/.settings/org.eclipse.m2e.core.prefs
